@@ -4,7 +4,7 @@
 
 ## 필요 개념
 
-서식 지정자, 가변 인자, 플래그, parsing
+[서식 지정자 & flag](https://www.notion.so/format-specifier-flags-44c3520ed7254d0f90daa897ca22a326?pvs=4), [가변 인자](https://www.notion.so/Variadic-argument-5b7f135b0cac48a2b4afcede580f109a?pvs=4), parsing
 
 중요한건 parsing이다 읽고 넘겨주고 다시 읽는 구조를 잘 짜는게 중요하다.
 
