@@ -2,10 +2,12 @@
 
 ![printcodeflow](https://github.com/AriSongYe/ft_printf/assets/82326075/9ac26b65-a1bd-47f0-93ca-169e64e25698)
 
-중요한건 parsing이다 읽고 넘겨주고 다시 읽는 구조를 잘 짜는게 중요하다.
 ## 필요 개념
 
-서식 지정자, 가변 인자, 플래그 
+서식 지정자, 가변 인자, 플래그, parsing
+
+중요한건 parsing이다 읽고 넘겨주고 다시 읽는 구조를 잘 짜는게 중요하다.
+
 <aside>
 💡 여기서 parsing이란, 구문 분석 혹은 구성 분석이다.
 
